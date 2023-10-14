@@ -26,7 +26,7 @@
   "homepage": "https://github.com/actions/javascript-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "openai": "^4.2.0"
+    "openai": "^4.10.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.31.1",
